@@ -1,0 +1,10 @@
+# Dependencias iniciales para descarga y auditoría. Ampliaremos al implementar descriptores.
+kagglehub>=0.3,<1
+numpy>=1.26,<3
+pandas>=2.2,<3
+Pillow>=10,<13
+matplotlib>=3.8,<4
+opencv-python-headless>=4.10,<6
+scikit-image>=0.24,<0.27
+scikit-learn>=1.6,<1.10
+joblib>=1.4,<2

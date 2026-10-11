@@ -1,0 +1,12 @@
+label,train,val,test,total
+dew,474,101,101,676
+fogsmog,574,123,123,820
+frost,328,70,70,468
+glaze,414,88,88,590
+hail,396,85,85,566
+lightning,258,56,56,370
+rain,366,78,78,522
+rainbow,159,34,34,227
+rime,797,171,171,1139
+sandstorm,479,103,103,685
+snow,426,91,91,608

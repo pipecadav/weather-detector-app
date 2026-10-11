@@ -1,0 +1,37 @@
+{
+  "dataset_handle": "jehanbhathena/weather-dataset",
+  "class_root": "C:\\Users\\cadav\\.cache\\kagglehub\\datasets\\jehanbhathena\\weather-dataset\\versions\\3\\dataset",
+  "seed": 42,
+  "expected_classes": 11,
+  "observed_classes": [
+    "dew",
+    "fogsmog",
+    "frost",
+    "glaze",
+    "hail",
+    "lightning",
+    "rain",
+    "rainbow",
+    "rime",
+    "sandstorm",
+    "snow"
+  ],
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "2.3.3",
+    "Pillow": "12.3.0",
+    "matplotlib": "3.11.2",
+    "python": "3.13.7",
+    "kagglehub": "0.4.3"
+  },
+  "recognized_extensions": [
+    ".bmp",
+    ".jpeg",
+    ".jpg",
+    ".png",
+    ".tif",
+    ".tiff",
+    ".webp"
+  ],
+  "split_created": false
+}
